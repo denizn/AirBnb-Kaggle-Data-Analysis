@@ -13,8 +13,10 @@ Question 3: Can we predict the review score from comments using regression? Do t
 The libraries we will be using will be:
 Python 3.6.5 Anaconda Distribution
 [xgboost] (https://xgboost.readthedocs.io/)
+
 [catboost] (https://tech.yandex.com/catboost/)
-[nltk](https://www.nltk.org/data.html)
+
+[nltk] (https://www.nltk.org/data.html)
 
 ## File Descriptions
 * `calendar.csv` and `calendar_boston.csv` - csvs containing **home_id**, **availability**, and **price** for every listing/date combination
