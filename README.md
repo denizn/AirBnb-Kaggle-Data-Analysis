@@ -17,9 +17,9 @@ Python 3.6.5 Anaconda Distribution
 [nltk](https://www.nltk.org/data.html)
 
 ## File Descriptions
-* `calendar.csv` and `calendar_boston.csv` - csvs containing **home_id**, **date**, **availability**, and **price** for each home
+* `calendar.csv` and `calendar_boston.csv` - csvs containing **home_id**, **availability**, and **price** for every listing/date combination
 
-* `listings.csv` and `listings_boston.csv` - **id**, **review_scores_rating**
+* `listings.csv` and `listings_boston.csv` - **id**, **review_scores_rating** for each listing
 
 * `reviews.csv` and `reviews_boston.csv` - csvs containing the **home_id**, **date** of review, **reviewer_id**, **reviewer_name**, and reviewer **comments** for the reviewed stays.
 
