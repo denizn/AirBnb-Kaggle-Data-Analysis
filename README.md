@@ -1,7 +1,7 @@
 ## AirBnB-Data-Analysis-NLP-Regression
 
 ### Motivation
-For this project, I wanted to delve deep into Kaggla AirBnB datasets for Seattle and Boston. I will be focusing on answering three questions below in the jupyter notebook. The first two questions will be basic data analysis on the data while the last question will be require us to process a full Natural Language Processing pipeline.
+For this project, I wanted to delve deep into Kaggle AirBnB datasets for Seattle and Boston. I will be focusing on answering three questions below in the jupyter notebook. The first two questions will be basic data analysis on the data while the last question will be require us to process a full Natural Language Processing pipeline.
 
 Question 1: How are the pricing of the properties in Boston and Seattle? Do they have seasonality? Are there any events that cause jumps in price?
 
